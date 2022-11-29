@@ -12,4 +12,4 @@ This repo includes a database dump "shop_db.sql" used in phpMyAdmin. It contains
 ### This project is open source under the MIT license.
 It is not commercialised and I do not receive any form of material gain from it's distribution.
 
-Feel free to ask me anyquestions regarding it's contents.
+Feel free to ask me any questions regarding it's contents.
