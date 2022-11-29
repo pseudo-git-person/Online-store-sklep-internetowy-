@@ -2,7 +2,7 @@
 Online store project developped for a hypothetical polish brand as a college task. Some of the variable names are in polish. Feel free to ask me any questions in case of confusion.
 
 ### The main functionalities are:
-User registration and login;
+User registration and login; \n
 Database of products with the ability to modify it in the browser;
 Shopping basket;
 Order mailling to a specified email address.
